@@ -1,0 +1,25 @@
+{
+  "name": "swift.js",
+  "version": "1.0.0",
+  "description": "Swift to JS Transpiler",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "escodegen": "^1.7.1",
+    "tokenizer": "^1.1.2"
+  },
+  "bin": {
+    "swiftjs": "bin/swift.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankurp/swift.js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ankurp/swift.js/issues"
+  },
+  "homepage": "https://github.com/ankurp/swift.js#readme"
+}
