@@ -1,6 +1,6 @@
 function hello(first, last) {
-    var x = 2;
+    const x = 2;
     return 2 + 1 * 10;
 }
-hello('Ankur', 'Patel', 'ZXC');
-var name = 'hello';
+const greeting = 'hello';
+hello('Ankur', 'Patel');
