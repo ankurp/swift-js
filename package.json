@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/ankurp/swift.js.git"
   },
-  "author": "",
+  "author": "Ankur Patel <ankur.patel@ymail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ankurp/swift.js/issues"
