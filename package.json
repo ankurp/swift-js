@@ -5,8 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "babel-preset-es2015": "^6.3.13",
-    "escodegen": "^1.7.1",
-    "tokenizer": "^1.1.2"
+    "escodegen": "^1.7.1"
   },
   "bin": {
     "swiftjs": "bin/swift.js"
