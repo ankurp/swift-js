@@ -1,5 +1,5 @@
 {
-  "name": "swift.js",
+  "name": "swift-js",
   "version": "0.1.0",
   "description": "Swift to JS Transpiler",
   "main": "build/index.js",
@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ankurp/swift.js.git"
+    "url": "git+https://github.com/ankurp/swift-js.git"
   },
   "author": "Ankur Patel <ankur.patel@ymail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ankurp/swift.js/issues"
+    "url": "https://github.com/ankurp/swift-js/issues"
   },
-  "homepage": "https://github.com/ankurp/swift.js#readme"
+  "homepage": "https://github.com/ankurp/swift-js#readme"
 }
